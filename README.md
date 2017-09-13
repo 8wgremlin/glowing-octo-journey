@@ -9,5 +9,5 @@ You can set the width of any cell by adding the size-x class (from size-1 to siz
 
 Each cell has a h5 that is hidden in the larger screen sizes and shown in the smaller screen sizes.
 If you include the responsiveHeader section this 
-will be displayerd in the large screen sizes and hidden in the smaller screen sizes
+will be displayed in the large screen sizes and hidden in the smaller screen sizes
 
